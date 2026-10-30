@@ -90,7 +90,6 @@ The platform compares the resulting price with prevailing market conditions and 
 
 ## Technical Approach
 The proposed system will be developed as a centralized digital platform with separate interfaces for farmers, intermediaries, consumers, bulk buyers and government authorities.
-<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/c23e7497-6879-4e18-a79a-96b9cc8b94d4" /># Smart India Hackathon Workshop
 
 1. Technologies to be Used
 Component	Technology
